@@ -1,4 +1,7 @@
 
+## ------------------------------------------------------ Noun Paradigms ------------------------------------------------------
+## # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ##
+
 ## --------------------------------------------------------- a/ā stem ---------------------------------------------------------
 ##      ## deva (god, m)                            ## vana (forest, n)                         ## senā (army, f)
 [nom]   devaḥ       devau       devāḥ               vanam       vane        vanāni              senā        sene        senāḥ
@@ -131,3 +134,26 @@
 [gen]   ātmanaḥ     ātmanoḥ     ātmanām             karmaṇaḥ    karmaṇoḥ    karmaṇām
 [loc]   ātmani      ātmanoḥ     ātmasu              karmaṇi     karmaṇoḥ    karmasu
 [voc]   ātman       ātmānau     ātmānaḥ             karma       karmaṇī     karmāṇi
+
+
+
+## ------------------------------------------------------ Verb Paradigms ------------------------------------------------------
+## # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ##
+
+##  P_p [other/3rd]                 Ā_p [thematic/athematic]
+    ti      taḥ     anti/ati        te      āte     ante/ate
+    si      thaḥ    tha             se      āthe    dhve
+    mi      vaḥ     maḥ             e       vahe    mahe
+
+##  P_s [other/3rd]                 Ā_s [thematic/athematic]
+    t       tām     an/uḥ           ta      ātām    anta/ata
+    ḥ       tam     ta              thāḥ    āthām   dhvam
+    am      va      ma              e/i     vahi    mahi
+
+##  P_i [other/3rd]                 Ā_i [thematic/athematic]
+    tu      tām     antu/atu        tām     ātām    antām/atām
+    *       tam     ta              sva     āthām   dhvam
+    āni     āva     āma             ai      āvahai  āmahai
+* -/dhi/hi/āna
+
+## Passive voice: *all conjugations are -ya + thematic Ā (3)*
