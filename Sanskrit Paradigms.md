@@ -1,9 +1,10 @@
 
 ## ------------------------------------------------------ Noun Paradigms ------------------------------------------------------
-## # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ##
+## #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  # ##
 
 ## --------------------------------------------------------- a/ā stem ---------------------------------------------------------
 ##      ## deva (god, m)                            ## vana (forest, n)                         ## senā (army, f)
+## *except: pronominal declension: anya, eka, para, pūrva, sarva*
 [nom]   devaḥ       devau       devāḥ               vanam       vane        vanāni              senā        sene        senāḥ
 [acc]   devam       devau       devān               vanam       vane        vanāni              senām       sene        senāḥ
 [ins]   devena      devābhyām   devaiḥ              vanena      vanābhyām   vanaiḥ              senayā      senābhyām   senābhiḥ
@@ -14,6 +15,7 @@
 [voc]   deva        devau       devāḥ               vana        vane        vanāni              sene        sene        senāḥ
 
 ## --------------------------------------------------------- Pronouns ---------------------------------------------------------
+## *pronominal declension: anya, eka, para, pūrva, sarva*
 ##      ## mad/asmad (I)                            ## tvad/yuṣmad (you)                        ## [abbr.]
 [nom]   aham        āvām        vayam               tvam        yuvām       yūyam
 [acc]   mām         āvām        asmān               tvām        yuvām       yuṣmān              mā/tvā      nau/yām     naḥ/vaḥ
@@ -80,7 +82,7 @@
 ## ---------------------------------------------------------- ṛ stem ----------------------------------------------------------
 ## *except: monosyllabic feminine ā, ī, ū stem; complex final vowel*
 ## *except: naptṛ, m “grandson” & svasṛ, f “sister,” like [agent], strengthen to [vṛddhi] instead of [guṇa] in the first 5 forms*
-##      ## pitṛ (father, m) [kinship]                                                           ## mātṛ (mother, f) [kinship]
+##      ## pitṛ (father, m) [kinship] [pitar-,pitṛ-]                                            ## mātṛ (mother, f) [kinship]
 [nom]   pitā        pitarau     pitaraḥ                                                         mātā        mātarau     mātaraḥ
 [acc]   pitaram     pitarau     pitṝn                                                           mātaram     mātarau     mātṝḥ
 [ins]   pitrā       pitṛbhyām   pitṛbhiḥ                                                        mātrā       mātṛbhyām   mātṛbhiḥ
@@ -90,6 +92,7 @@
 [loc]   pitari      pitroḥ      pitṛṣu                                                          mātari      mātroḥ      mātṛṣu
 [voc]   pitaḥ       pitarau     pitaraḥ                                                         mātaḥ       mātarau     mātaraḥ
 
+## *agent nouns = strong root + tṛ*
 ##      ## dātṛ (giver, m) [agent]                  ## dātṛ (giver, n) [agent]                  ## dātrī (giver, f) [agent]
 [nom]   dātā        dātārau     dātāraḥ             dātṛ        dātṛṇī      dātṝṇi              dātrī       dātryau     dātryaḥ
 [acc]   dātāram     dātārau     dātṝn               dātṛ        dātṛṇī      dātṝṇi              dātrīm      dātryau     dātrīḥ
@@ -135,25 +138,94 @@
 [loc]   ātmani      ātmanoḥ     ātmasu              karmaṇi     karmaṇoḥ    karmasu
 [voc]   ātman       ātmānau     ātmānaḥ             karma       karmaṇī     karmāṇi
 
+## ---------------------------------------------------------- at stem ---------------------------------------------------------
+## *possessive adjectives = noun + -mat/-vat*
+##      ## bhagavat (fortunate, m) [bhagavant/bhagavat]
+[nom]   bhagavān    bhagavantau     bhagavantaḥ
+[acc]   bhagavantam bhagavantau     bhagavataḥ
+[ins]   bhagavatā   bhagavadbhyām   bhagavadbhiḥ
+[dat]   bhagavate   bhagavadbhyām   bhagavadbhyaḥ
+[abl]   bhagavataḥ  bhagavadbhyām   bhagavadbhyaḥ
+[gen]   bhagavataḥ  bhagavatoḥ      bhagavatām
+[loc]   bhagavati   bhagavatoḥ      bhagavatsu
+[voc]   bhagavan    bhagavantau     bhagavantaḥ
 
+## ---------------------------------------------------------- in stem ---------------------------------------------------------
+## *-in + consonant > -i; -in + vowel > -in* 
+##      ## yogin (yogin, m) [yogin-,yogi-]
+[nom]   yogī        yoginau     yoginaḥ
+[acc]   yoginam     yoginau     yoginaḥ
+[ins]   yoginā      yogibhyām   yogibhiḥ
+[dat]   yogine      yogibhyām   yogibhyaḥ
+[abl]   yoginaḥ     yogibhyām   yogibhyaḥ
+[gen]   yoginaḥ     yoginoḥ     yoginām
+[loc]   yogini      yoginoḥ     yogiṣu
 
-## ------------------------------------------------------ Verb Paradigms ------------------------------------------------------
-## # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ##
+## ------------------------------------------------------ standard endings -----------------------------------------------------
+##      ## masc/fem                         ## neut
+[nom]   -s (ḥ)  -au     -aḥ                 -       -ī      -i
+[acc]   -am     -au     -aḥ                 -       -ī      -i
+[ins]   -ā      -bhyām  -bhiḥ
+[dat]   -e      -bhyām  -bhyaḥ
+[abl]   -aḥ     -bhyām  -bhyaḥ
+[gen]   -aḥ     -oḥ     -ām
+[loc]   -i      -oḥ     -su
 
-##  P_p [other/3rd]                 Ā_p [thematic/athematic]
+## ----------------------------------------------------- Internal Sandhi ------------------------------------------------------
+## #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  # ##
+1. s > ṣ (RUKI rule)
+r/ṛ/ṝ/u/k/i [immediate-prior] + s > ṣ
+    e.g. yogi-su > yogiṣu (loc. pl. of nominals)
+    e.g. karo-si > kar(a+u)-si > karoṣi (2nd sing. of verbs)
+
+2. n > ṇ (ṚṢI rule)
+r/ṛ/ṝ/ṣ [nearby] + n > ṇ
+[pal(!y)/cer/den] in between will block cerebralization
+    e.g. buddha-ena > buddhena
+    e.g. putra-ena > putreṇa
+    e.g. rākṣasa-ena > rākṣasena
+    e.g. karman-ā > karmaṇā
+    e.g. kriya-māna > kriyamāṇa
+
+palatal + cons. > velar
+ś-bh = gbh (e.g. diś-bhyām > digbhyām)
+c/j + t = kt (vac + -ta > ukta)
+
+palatal at end of word > k (e.g. diśs > diś > dik)
+
+## -------------------------------------------------- Verb & Mode Paradigms ---------------------------------------------------
+## #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  # ##
+
+##  P_primary [other/3rd]           Ā_primary [thematic/athematic]
     ti      taḥ     anti/ati        te      āte     ante/ate
     si      thaḥ    tha             se      āthe    dhve
     mi      vaḥ     maḥ             e       vahe    mahe
 
-##  P_s [other/3rd]                 Ā_s [thematic/athematic]
+##  P_secondary [other/3rd]         Ā_secondary [thematic/athematic]        *a + xxx*
     t       tām     an/uḥ           ta      ātām    anta/ata
     ḥ       tam     ta              thāḥ    āthām   dhvam
     am      va      ma              e/i     vahi    mahi
 
-##  P_i [other/3rd]                 Ā_i [thematic/athematic]
+##  P_imperative [other/3rd]        Ā_imperative [thematic/athematic]
     tu      tām     antu/atu        tām     ātām    antām/atām
     *       tam     ta              sva     āthām   dhvam
     āni     āva     āma             ai      āvahai  āmahai
 * -/dhi/hi/āna
 
-## Passive voice: *all conjugations are -ya + thematic Ā (3)*
+##  Passive voice: *all conjugations are -ya + thematic Ā (3)*
+
+##  Optative Mode
+##  P [thematic+ī] [athematic+yā]   Ā [thematic+ī] [athematic+yā]
+    t       tām     uḥ              ta      ātām    ran
+    ḥ       tam     ta              thāḥ    āthām   dhvam
+    am      va      ma              a       vahi    mahi
+
+## ------------------------------------------------------ Strength Chart ------------------------------------------------------
+## #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  # ##
+
+##  svara   guṇa    vṛddhi
+            a       ā
+    i/ī     e       ai
+    u/ū     o       au
+    ṛ/ṝ     ar      ār
+    ḷ       al      āl
